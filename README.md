@@ -9,11 +9,7 @@
   <img width="400" height="250" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
   <img width="400" height="250" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
 </span>
-<span style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="marign: 0;"> Search Stocks by Ticker</p>
-  <p style="marign: 0;"> Retrieve Real-Time Ticker Data</p>
-</span> 
-
+<p align="center"> Search Stocks by Ticker                 Retrieve Real-Time Ticker Data</p>
 
 <span>
   <div style="flex: 1;">
