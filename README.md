@@ -3,12 +3,12 @@
   <h1 align="left">Stock Portfolio Manager</h1>
 </span>
 
-<table align="center">
+<table align="center" style="border-collaps: collapse; margin: 0 auto;">
   <tr>
-    <td>
+    <td style="text-align: center">
       Manage a Personalized Portfolio
     </td>
-    <td>
+    <td style="text-align: center">
       Retrive Real-Time Ticker Data
     </td>
   </tr>
