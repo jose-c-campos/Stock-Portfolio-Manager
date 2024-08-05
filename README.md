@@ -10,10 +10,12 @@
   <img width="400" height="250" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
 </span>
 
-<p align="center">
-  <span style="display: inline-block; margin-right: 50px;">Search Stocks by Ticker</span>
-  <span>Retrieve Real-Time Ticker Data</span>
-</p>
+<table align="center">
+  <tr>
+    <td>Search Stocks by Ticker</td>
+    <td style="padding-left: 50px;">Retrieve Real-Time Ticker Data</td>
+  </tr>
+</table>
 
 <span>
   <div style="flex: 1;">
