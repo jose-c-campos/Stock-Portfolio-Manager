@@ -11,7 +11,7 @@
 </span>
 
 <p align="center">
-  <span style="padding-right: 50px;">Search Stocks by Ticker</span>
+  <span style="display: inline-block; margin-right: 50px;">Search Stocks by Ticker</span>
   <span>Retrieve Real-Time Ticker Data</span>
 </p>
 
