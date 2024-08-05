@@ -5,16 +5,17 @@
 
 ### User Interface
 
-<span style="display: flex; justify-content: center;" >
-  <div style="text-align: center; margin-bottom: 10px;">
+ <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="display: inline-block; text-align: center; margin-bottom: 20px;">
     <img width="400" height="250" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
     <p>Search Stocks by Ticker</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: inline-block; text-align: center;">
     <img width="400" height="250" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
     <p>Retrieve Real-Time Ticker Data</p>
   </div>
 </span>
+
 
 <span>
   <img width="400" height="250" alt="Login/Signup" src="https://github.com/user-attachments/assets/47674273-5d26-45f0-a195-c2505a9255e8">
