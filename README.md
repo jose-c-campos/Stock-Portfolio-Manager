@@ -18,7 +18,7 @@
 
 
 <span>
-  <div style="flex: 1;>
+  <div style="flex: 1;">
     <img width="400" height="250" alt="Login/Signup" src="https://github.com/user-attachments/assets/47674273-5d26-45f0-a195-c2505a9255e8">
   </div>
   <img width="400" height="250" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
