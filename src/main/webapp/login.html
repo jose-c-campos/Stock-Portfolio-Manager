@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Login/Sign Up</title>
+</head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<link rel ="stylesheet" href = "login.css">
+	<h5 class = "header">JoesStocks</h5>
+	<h6 id = "home" class ="buttons" onclick="window.location.href = 'index.html'">Home / Search</h6>
+	<h6 id = "login" class = "buttons" onclick="window.location.href = 'login.html'">Login / Sign Up</h6>
+<body>
+
+	<div class = "form-container">
+		<fieldset id = "loginField"> 
+		
+		<h5 class = "fieldTitles">Login</h5>
+		<label for = "username">Username:</label><br><br>
+		<input type = "text" id = "loginUsername" name = "username"><br><br>
+		
+		<label for = "password">Password:</label><br><br>
+		<input type = "password" id = "loginPassword" name = "password"><br><br>
+		
+		<button type = "button" id = "loginButton" onClick = "loginUser();">Submit</button>
+		
+		</fieldset>
+		
+		<fieldset id = "signupField">
+		
+		<h5 class = "fieldTitles">Sign Up</h5>
+		
+		<label for = "email">Email:</label><br><br>
+		<input type = "text" id = "registerEmail" name = "email"><br><br>
+		
+		<label for = "username">Username:</label><br><br>
+		<input type = "text" id = "registerUsername" name = "username"><br><br>
+		
+		<label for = "password">Password:</label><br><br>
+		<input type = "password" id = "registerPassword" name = "password"><br><br>
+		
+		<label for = "confirmPassword">Confirm Password:</label><br><br>
+		<input type = "password" id = "registerConfirmPassword" name = "confirmPassword"><br><br>
+		
+		<button type = "button" id = "signupButton" onClick = "registerUser();">Submit</button>
+	
+		</fieldset>
+	</div>
+	<script src="login.js" defer></script>
+	
+</body>
+</html>

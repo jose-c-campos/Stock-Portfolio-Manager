@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Portfolio</title>
+</head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+	<link rel ="stylesheet" href = "portfolio.css">
+	<h5 class = "header">JoesStocks</h5>
+	<h6 id = "home" class ="buttons" onclick="window.location.href = 'index.html'">Home / Search</h6>
+	<h6 id = "logout" class = "buttons" onclick="logout();">Logout</h6>
+<body>
+
+	<div class = "portfolio">
+		<h2>My Portfolio</h2> 
+		<h3>
+			Cash Balance: $<span id = "cashBalance"></span>
+		</h3>
+		<h3>
+			Total Account Value: $<span id = "accountValue"></span>
+		</h3>
+	</div>
+	
+	<div id = "stockContainer" style = "display: none;">
+		<div class = "stockHeader">
+			<h5 class = "stock-name" id = "stockTicker"> </h5>
+			<h5 class = "stock-name" id = "company"></h5>
+		</div>
+		<div class = "stockInfo">
+			<table id = "table1">
+				<tr>
+					<th>Quantity: </th> <td id = "currNumStocks_${stockTicker}">${stock.currentNumStocks}</td>
+				</tr>
+				<tr>
+					<th>Avg. Cost/Share </th> <td id = "avgCostPerShare"></td>
+				</tr>
+				<tr>
+					<th>Total Cost: </th> <td id = "totalCost"></td>
+				</tr>
+			</table>
+			<table id = "table2">
+				<tr>
+					<th>Change: </th> <td id = "change_${stockTicker}"> </td>
+				</tr>
+				<tr>
+					<th>Current Price: </th> <td id = "currentPrice"></td>
+				</tr>
+				<tr>
+					<th>Market Value: </th> <td id = "marketValue"></td>
+				</tr>
+			</table>
+		</div>
+		<fieldset>
+			<div>
+				<label for = "quantity">Quantity: </label>
+				<input type = "text" id = "quantity" name = "quantity">
+			</div>
+			<div>
+				<input type="radio" id="buy_${stockTicker}" name="buy_sell_${stockTicker}" value="buy" required> 
+		        <label for="buy_${stockTicker}">BUY</label>
+		        <input type="radio" id="sell_${stockTicker}" name="buy_sell_${stockTicker}" value="sell" checked>
+		        <label for="sell_${stockTicker}">SELL</label><br>
+		    </div>
+		    <div>
+		        <button type = "submit" id = "submitButton" onClick = "submitTrade();">Submit</button>
+		       </div>
+		</fieldset>
+	</div>
+	<script src="portfolio.js" defer></script>
+</body>
+</html>

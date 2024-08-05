@@ -1,0 +1,313 @@
+@charset "UTF-8";
+
+input[type = "text"] {
+	width: 275px;
+	padding: 5px;
+	height: 12px;
+	font-size: 12px;
+	border-width: 3px solid;
+	border-style: solid;
+	border-color: #786de7;
+	border-radius: 3px 0 0 3px;
+	margin-right: 2px;
+}
+
+
+.header {
+	background-color: #786de7;
+	color: white;
+	margin: 0px; 
+	top: 5px;
+	padding: 15px;
+	padding-left: 20px; 
+	font-family: sans-serif;
+	font-weight: 200; 
+	font-style: normal;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.buttons {
+	color: white;
+	margin: 0px;
+	top: 5px;
+	padding: 15px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-size: 12px;
+	font-weight: 100;
+	cursor: pointer;
+}
+
+
+#home {
+	position: absolute;
+	top: 0px;
+	right: 100px;
+}
+
+#login {
+	position: absolute;
+	top: 0px; 
+	right: 5px;
+	padding-right: 10px;
+}
+
+#portfolio {
+	position: absolute;
+	top: 0px; 
+	right: 75px;
+	padding-right: 10px;
+	display: none;
+}
+
+#logout {
+	position: absolute;
+	top: 0px; 
+	right: 10px;
+	padding-right: 10px;
+	display: none;
+}
+
+
+#searchButton {
+	padding: 10px;
+	background-color: #786de7;
+	color: white;
+	border: none;
+	cursor: pointer;
+	position: relative;
+	height: 26px;
+	width: 26px;
+	border-radius: 0 3px 3px 0;
+	padding: 0;
+	box-shadow: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#searchButton i {
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 12px;
+}
+
+
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 510;
+	height: 30px;
+	padding-top: 150px;
+	padding-bottom: 15px;
+}
+
+button:focus {
+	outline: none;
+}
+
+.search-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 2px;
+	margin-top: 15px;
+}
+
+
+#searchButton::after {
+	content: none; 
+}
+
+form {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-family: arial;
+}
+
+#stockInfo {
+	display: none;
+	margin-top: 10px;
+	text-align: center;
+	font-family: sans-serif;
+	align-items: center;
+	justify-content: center;
+}
+
+#symbol {
+	font-size: 16px;
+	margin-bottom: 1px;
+	padding-bottom: 1px;
+}
+
+#company {
+	margin-bottom: 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+#exchange {
+	margin-bottom: 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+h4 {
+	font-weight: normal;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+#summary-line {
+	border: none;
+	height: 2px;
+	background-color: #e2e2e2;;
+	width: 60%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#info-line {
+	border: none;
+	height: 2px;
+	background-color: #e2e2e2;;
+	width: 60%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+#companyInfo {
+	text-align: left;
+	padding-left: 300px;
+}
+
+#quantityBox {
+	width: 25px;
+	height: 10px;
+	display: none;
+	border-radius: 2px;
+	border-color: rgb(190, 190, 190);
+	border-width: 2px;
+	border-style: solid; 
+}
+
+#buyButton {
+	background-color: green;
+	color: white;
+	cursor: pointer;
+	width: 50px;
+	height: 30px;
+	display: none;
+	border-radius: 5px;
+	border-color: #b9f3bf;
+	align-self: flex-start;
+}
+
+fieldset {
+	border: none;
+}
+
+fieldset div {
+	border: 0;
+	border-style: none;
+	display: flex;
+	align-items: left;
+	justify-content: flex-start;
+	padding-left: 50px;
+	margin-left: 40px; 
+}
+
+.form {
+	display: flex;
+	align-items: left;
+	justify-content: flex-start;
+}
+
+#symbolCompanyExchange {
+	position: relative;
+	padding: 0;
+	text-align: center; 
+}
+
+#symbol {
+	font-size: 18px;
+}
+
+#company {
+	margin-block-start: 2px;  
+	font-size: 16px;
+	color: #333;
+}
+
+#exchange {
+	margin-block-start: 6px;  
+	font-size: 15px; 
+	color: #333;
+}
+
+
+#userPrivileges {
+	position: absolute;
+	top: 50px;
+	right: 100px;
+	text-align: right;
+	padding: 10px;
+	color: green;
+}
+
+#userHigh {
+	font-size: 30px;
+	margin-block-end: 0px;
+	font-weight: normal;
+}
+
+#changeSection {
+	margin-block-start: 5px; 
+	margin-bottom: 8px; 
+	font-weight: normal;
+}
+
+#userChange, #userPercent {
+	font-size: 26px;
+}
+
+#dateTime {
+	font-size: 13px;
+	display: none;
+}
+
+#marketStatus {
+	display: none;
+}
+
+#quantity {
+	display: none; 
+}
+
+#field {
+	display: none; 
+}
+
+
+
+
+
+
+
+

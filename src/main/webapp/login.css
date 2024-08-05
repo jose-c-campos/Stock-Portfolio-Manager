@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+input[type = "text"], input[type = "password"] {
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+	border-width: 2px; 
+	border-style: inset;
+	height: 30px;
+	font-size: 14px;
+	width: 300px; 
+}
+
+#loginButton, #signupButton {
+	background-color: #800001;
+	color: white;
+	width: 308px; 
+	height: 40px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.header {
+	background-color: #786de7;
+	color: white;
+	margin: 0px; 
+	top: 0px;
+	padding: 15px;
+	padding-left: 20px; 
+	font-family: sans-serif;
+	font-weight: 200; 
+	font-style: normal;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: h5;
+}
+
+.fieldTitles {
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	font-weight: 520;
+	color: #7b7b7b;
+}
+
+label {
+	font-size: 13px;
+}
+
+.buttons {
+	color: white;
+	margin: 0px;
+	top: 5px;
+	padding: 15px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-size: 12px;
+	font-weight: 100;
+	cursor: pointer;
+}
+
+.form-container {
+	display: flex;
+	justify-content: center; 
+}
+
+#loginField{
+	width: 300px;
+	border: none;
+	height: 250px; 
+}
+
+#signupField {
+	border: none;
+}
+
+#home {
+	position: absolute;
+	top: 0px;
+	right: 100px;
+}
+
+#login {
+	position: absolute;
+	top: 0px; 
+	right: 5px;
+	padding-right: 10px;
+}
+
+body {
+	font-family: sans-serif;
+	color: grey;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+

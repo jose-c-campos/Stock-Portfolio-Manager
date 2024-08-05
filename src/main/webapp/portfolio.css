@@ -1,0 +1,198 @@
+@charset "UTF-8";
+
+.header {
+	background-color: #786de7;
+	color: white;
+	margin: 0px; 
+	top: 0px;
+	padding: 15px;
+	padding-left: 20px; 
+	font-family: sans-serif;
+	font-weight: 200; 
+	font-style: normal;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: h5;
+}
+
+.buttons {
+	color: white;
+	margin: 0px;
+	top: 5px;
+	padding: 15px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-size: 12px;
+	font-weight: 100;
+	cursor: pointer;
+}
+
+#home {
+	position: absolute;
+	top: 0px;
+	right: 60px;
+}
+
+#logout {
+	position: absolute;
+	top: 0px; 
+	right: 10px;
+	padding-right: 10px;
+}
+
+.portfolio {
+	margin-top: 30px;
+	margin-left: 350px;
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+
+h2, h3 {
+	font-weight: 400; 
+	margin-bottom: 5px;
+}
+
+h2 {
+	line-height: 85%;
+}
+
+h3 {
+	line-height: 70%;
+}
+
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+.stockHeader {
+	border-style: solid;
+	border-color: #e2e2e2;
+	border-width: 2px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	width: 725px;
+	height: 28px;
+	border-radius: 3px 3px 0 0; 
+	font-size: 18px;
+	background-color: #ededed;
+	box-sizing: border-box;
+	border-bottom: none; 
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	flex-wrap: nowrap;
+	white-space: nowrap;
+	border-top: none;
+	margin-bottom: 20px; 
+	font-family: sans-serif; 
+	font-weight: bold;
+}
+
+
+.stockHeader .stock-name {
+	display: inline;
+	font-weight: normal;
+}
+.stock-name {
+	width: auto;
+	margin-block-end: 0px;
+	margin-block-start: 0px; 
+	white-space: nowrap;
+}
+
+#stockContainer {
+	display: 'none';
+}
+
+.stockInfo {
+	border-style: solid;
+	border-color: #e2e2e2;
+	border-width: 2px;
+	border-radius: 0 0 0 0;
+	margin-left: 350px;
+	width: 725px; 
+	line-height: 150%;
+	font-weight: 300;
+	font-size: 13px; 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box; 
+	border-bottom: none; 
+	flex-direction: column;
+	margin-bottom: 10px; 
+}
+
+th {
+	font-weight: normal;
+	padding-right: 15px; 
+}
+
+#table1 {
+	float: left; 
+	padding-right: 20px;	
+	padding-left: 180px;
+}
+
+#table1, #table2 {
+	text-align: left; 
+	font-family: sans-serif; 
+	font-weight: Normal;
+}
+
+fieldset {
+	border-color: #e2e2e2;
+	width: 725px;
+	border-radius: 0 0 3px 3px;
+	border-width: 2px;
+	border-style: solid; 
+	border-color: #e2e2e2;
+	background-color: #ededed;
+	box-sizing: border-box;
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	font-size: 13px;
+}
+
+input[id^="quantity_"] {
+	width: 20px;
+	height: 20px;
+	border-width: 1px; 
+	border-radius: 2px; 
+	border-color:  #d3d3d3;
+	border-style: solid; 
+}
+
+fieldset div {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	margin-right: 50px; 
+}
+
+#sell {
+	margin-left: 30px; 
+}
+
+
+#submitButton {
+	border-style: outset;
+	width: 150px;
+	cursor: pointer;
+}
+
+label {
+	font-weight: normal; 
+}
+
+

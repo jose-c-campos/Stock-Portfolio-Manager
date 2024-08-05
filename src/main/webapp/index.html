@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JoesStocks</title>
+</head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+	<link rel ="stylesheet" href = "index.css">
+	<h5 class = "header">JoesStocks</h5>
+	<h6 id = "home" class ="buttons" onclick="window.location.href = 'index.html'">Home / Search</h6>
+	<h6 id = "login" class = "buttons" onclick="window.location.href = 'login.html'">Login / Sign Up</h6>
+	<h6 id = "portfolio" class = "buttons" onclick="window.location.href = 'portfolio.html'">Portfolio</h6>
+	<h6 id = "logout" class = "buttons" onclick="logout();">Logout</h6>
+	
+<body>
+	<h1 id = "searchStocksTitle">SEARCH STOCKS</h1><br>
+	<div class = "search-container" id = "searchContainer">
+		<form id = "searchForm" action = "/search">
+			<input type = "text" id = "stockTicker" placeholder = "Search by ticker...">
+			<button type = "button" id = "searchButton" onClick = "searchStock();">
+				<i class = "fas fa-search"></i>
+			</button>
+		</form>
+	</div>
+	<div id = "stockInfo"> 
+		<div id = "symbolCompanyExchange">
+			<p id = "symbol"></p>
+			<p id = "company"></p>
+			<p id = "exchange"></p>
+		</div>
+		<fieldset id = "field">
+			<div class = "form">
+				<label id = "quantity" for = "quantity"></label>
+				<input type = "text" id = "quantityBox" name = "quantity">
+			</div>
+			<div class = "form">
+		        <button type = "submit" id = "buyButton" onClick = "submitTrade();">Buy</button>
+		   </div><br>
+		</fieldset>
+		<div id = "userPrivileges">
+			<p id = "userHigh"></p>
+			<p id = "changeSection">
+				<span id = "userChange"></span>
+				<span id = "userPercent"></span>
+			</p>
+			<span id = "dateTime"></span>
+		</div>
+		<p id = "marketStatus"></p>
+		<h4>Summary</h4>
+		<hr id = "summary-line"></hr>
+		<p>
+			<span id = "highPrice"></span>
+		</p>
+		<p>
+			<span id = "lowPrice"></span>
+		</p>
+		<p>
+			<span id = "openPrice"></span>
+		</p>
+		<p>
+			<span id = "closePrice"></span>
+		</p>
+		<hr id = "info-line"></hr>
+		<h3>Company Information</h3>
+		<div id = "companyInfo">
+			<p>
+				<b>IPO Date: </b> <span id = "ipoDate"></span>
+			</p>
+			<p>
+				<b>Market Cap ($M): </b> <span id = "marketCap"></span>
+			</p>
+			<p>
+				<b>Share Outstanding: </b> <span id = "shareOutstanding"></span>
+			</p>
+			<p>
+				<b>Website: </b> <span id = "website"></span>
+			</p>
+			<p>
+				<b>Phone: </b> <span id = "phone"></span>
+			</p>
+		</div>
+	</div>
+	<script src="index.js" defer></script>
+</body>
+</html>
