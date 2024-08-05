@@ -5,16 +5,14 @@
 
 ### User Interface
 
-<span style="display: flex; align-items: left;">
-  <div style="flex: 1; text-align: center; margin-bottom: 20px;">
-    <img width="400" height="250" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
-    <p align="center">Search Stocks by Ticker</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img width="400" height="250" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
-    <p align="center">Retrieve Real-Time Ticker Data</p>
-  </div>
+<span align="center">
+  <img width="400" height="250" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
+  <img width="400" height="250" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
 </span>
+<span>
+  <p align="center">Search Stocks by Ticker</p>
+  <p align="center">Retrieve Real-Time Ticker Data</p>
+</span> the p tags to appear under each image as if a label for each image and i want it to be centered underneath them. how should i change what i have to achieve this
 
 
 <span>
