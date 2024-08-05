@@ -3,6 +3,26 @@
   <h1 align="left">Stock Portfolio Manager</h1>
 </span>
 
+<table align="center">
+  <tr>
+    <td>
+      Manage a Personalized Portfolio
+    </td>
+    <td>
+      Retrive Real-Time Ticker Data
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="400" height="250" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
+    </td>
+    <td>
+      <img width="400" height="250" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
+    </td>
+  </tr>
+</table>
+
+
 ### Manage a Personalized Portfolio
 
 --- 
