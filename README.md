@@ -3,7 +3,9 @@
   <h1 align="left">Stock Portfolio Manager</h1>
 </span>
 
-### User Interface
+### Search Stocks by Ticker
+
+---
 
 <span align="center">
   <img width="400" height="250" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
