@@ -5,7 +5,7 @@
 
 ### User Interface
 
-<span style="display: flex; flex-direction: row; align-items: center; text-align: center;">
+<span style="display: flex; align-items: center; text-align: center;">
   <div style="display: inline-block; text-align: center; margin-bottom: 20px;">
     <img width="400" height="250" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
     <p align="center">Search Stocks by Ticker</p>
