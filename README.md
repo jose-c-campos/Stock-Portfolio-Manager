@@ -6,11 +6,11 @@
 ### User Interface
 
 <span>
-  <img width="500" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
-  <img width="500" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
+  <img width="300" alt="Search" src="https://github.com/user-attachments/assets/9b3f9e6d-509d-4cc7-a0e7-1d0888590e69">
+  <img width="300" alt="Ticker" src="https://github.com/user-attachments/assets/2212501f-fe88-40a5-95d7-011eb85b0608">
 </span>
 <span>
-  <img width="500" alt="Login/Signup" src="https://github.com/user-attachments/assets/47674273-5d26-45f0-a195-c2505a9255e8">
-  <img width="500" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
+  <img width="300" alt="Login/Signup" src="https://github.com/user-attachments/assets/47674273-5d26-45f0-a195-c2505a9255e8">
+  <img width="300" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
 </span>
 
