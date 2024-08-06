@@ -12,9 +12,6 @@
   <h4 align="left">Manage data with a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</h4>
 </span>
 
-
-
-<p>📊 Manage data with a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</p>
 <p>💰 Execute live virtual trades using real-time data to add or remove stocks from personal portfolio</p>
 <p>🧑🏻‍💻 Login to your existing account or create a new account for a personalized site experience</p>
 <p>🔎 Search stocks by ticker to retrieve real-time market data like daily high/low, market cap, shares outstanding etc.</p>
