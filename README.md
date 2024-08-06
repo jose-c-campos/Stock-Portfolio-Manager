@@ -27,6 +27,10 @@
 
 ## Technologies Used
 
+- Apache Tomcat Server and Java Servlets: Deployed the web application on Apache Tomcat, using Java Servlets to handle client-server interactions, query the MySQL database, and ensure secure, efficient communication for user requests and data retrieval.
+- MySQL and JDBC: Managed user portfolio information in a MySQL database, utilizing JDBC for seamless database connectivity, executing SQL queries to verify, store, and retrieve client data effectively.
+- JavaServer Pages (JSP) and AJAX: Used JSP to dynamically update user portfolios after simulated trades, while employing AJAX for real-time search functionality, querying the Finhub API, and parsing JSON data to display up-to-date ticker information.
+- User Authentication and Data Integrity: Implemented robust user authentication mechanisms to ensure personalized access, data integrity, and secure user-specific experiences, maintaining the confidentiality and accuracy of portfolio information.
 
 
 ### Manage a Personalized Portfolio
