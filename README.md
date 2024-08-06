@@ -7,7 +7,7 @@
 
 ## Key Features
 
-<div align="left" style="justify-content: center;">
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" width=40 height=40 align="left" />
   <h4 align="left">Manage data with a portfolio of owned stocks using real-time ticker data to calculate value</h4>
 </div>
