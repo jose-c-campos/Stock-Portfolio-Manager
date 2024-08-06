@@ -9,7 +9,7 @@
 
 
 <span>
-  <img src="https://github.com/user-attachments/assets/aec670e9-ce18-4938-8835-1f04e0499451" width=20 height=20 >
+  <img src="https://github.com/user-attachments/assets/aec670e9-ce18-4938-8835-1f04e0499451" width=40 height=40 >
   Manage a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value
 </span>
 
