@@ -1,6 +1,6 @@
 <span style="text-align: center;">
   <img src="https://cdn-icons-png.freepik.com/512/12071/12071716.png" width=40 height=40 align="center" />
-  <h1 align="center">Stock Portfolio Manager</h1>
+  <h1 style="display: inline-block;">Stock Portfolio Manager</h1>
 </span>
 
 <img align="center" width="600" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
