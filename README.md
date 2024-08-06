@@ -12,6 +12,12 @@
 <p>🧑🏻‍💻 Login to your existing account or create a new account for a personalized site experience</p>
 <p>🔎 Search stocks by ticker to retrieve real-time market data like daily high/low, market cap, shares outstanding etc.</p>
 
+### Technologies Used
+
+---
+
+
+
 ### Manage a Personalized Portfolio
 
 --- 
