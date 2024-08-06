@@ -35,7 +35,7 @@
     <span style="font-weight: bold;">MySQL and JDBC:</span> Managed user portfolio information in a MySQL database, utilizing JDBC for seamless database connectivity, executing SQL queries to verify, store, and retrieve client data effectively.
   </p>
   <p>
-    <span style="font-weight: bold;">JavaServer Pages (JSP) and AJAX:</span> Used JSP to dynamically update user portfolios after simulated trades, while employing AJAX for real-time search functionality, querying the Finhub API, and parsing JSON data to display up-to-date ticker information.
+    <span style="font-weight: bold;"><h4>JavaServer Pages (JSP) and AJAX:</h4></span> Used JSP to dynamically update user portfolios after simulated trades, while employing AJAX for real-time search functionality, querying the Finhub API, and parsing JSON data to display up-to-date ticker information.
   </p>
   <p>
     <span style="font-weight: bold;">User Authentication and Data Integrity:</span> Implemented robust user authentication mechanisms to ensure personalized access, data integrity, and secure user-specific experiences, maintaining the confidentiality and accuracy of portfolio information.
