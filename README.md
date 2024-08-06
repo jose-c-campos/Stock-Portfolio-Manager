@@ -16,18 +16,18 @@
   <h4 align="left"> Execute virtual trades using real-time data to add or remove stocks from personal portfolio</h4>
 </span>
 <span align="left">
-  <img src="https://cdn-icons-png.freepik.com/512/2207/2207329.png" width=40 height=40 align="left" />
-  <h4 align="left"> Execute virtual trades using real-time data to add or remove stocks from personal portfolio</h4>
+  <img src="https://cdn-icons-png.flaticon.com/512/295/295128.png" width=40 height=40 align="left" />
+  <h4 align="left">Login to your existing account or create a new account for a personalized site experience</h4>
 </span>
 <span align="left">
   <img src="https://cdn-icons-png.freepik.com/512/2207/2207329.png" width=40 height=40 align="left" />
-  <h4 align="left"> Execute virtual trades using real-time data to add or remove stocks from personal portfolio</h4>
+  <h4 align="left"></h4>
 </span>
 
 
 
 <p>💰</p>
-<p>🧑🏻‍💻 Login to your existing account or create a new account for a personalized site experience</p>
+<p>🧑🏻‍💻 </p>
 <p>🔎 Search stocks by ticker to retrieve real-time market data like daily high/low, market cap, shares outstanding etc.</p>
 
 ## Technologies Used
