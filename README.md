@@ -9,7 +9,7 @@
 
 <div align="left">
   <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" width=30 height=30 align="left" />
-  <p align="left" style="font-size: 16px;" >Manage data with a portfolio of owned stocks using real-time ticker data to calculate value</p>
+  <p align="left" style="font-size: 26px;" >Manage data with a portfolio of owned stocks using real-time ticker data to calculate value</p>
 </div>
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/4175/4175980.png" width=30 height=30 align="left" />
