@@ -29,16 +29,20 @@
 
 <div>
   <p>
-    <span style="font-weight: bold;">Apache Tomcat Server and Java Servlets:</span> Deployed the web application on Apache Tomcat, using Java Servlets to handle client-server interactions, query the MySQL database, and ensure secure, efficient communication for user requests and data retrieval.
+    <h4>Apache Tomcat Server and Java Servlets:</h4> 
+    Deployed the web application on Apache Tomcat, using Java Servlets to handle client-server interactions, query the MySQL database, and ensure secure, efficient communication for user requests and data retrieval.
   </p>
   <p>
-    <span style="font-weight: bold;">MySQL and JDBC:</span> Managed user portfolio information in a MySQL database, utilizing JDBC for seamless database connectivity, executing SQL queries to verify, store, and retrieve client data effectively.
+    <h4>MySQL and JDBC:</h4> 
+    Managed user portfolio information in a MySQL database, utilizing JDBC for seamless database connectivity, executing SQL queries to verify, store, and retrieve client data effectively.
   </p>
   <p>
-    <span style="font-weight: bold;"><h4>JavaServer Pages (JSP) and AJAX:</h4></span> Used JSP to dynamically update user portfolios after simulated trades, while employing AJAX for real-time search functionality, querying the Finhub API, and parsing JSON data to display up-to-date ticker information.
+    <h4>JavaServer Pages (JSP) and AJAX:</h4>
+    Used JSP to dynamically update user portfolios after simulated trades, while employing AJAX for real-time search functionality, querying the Finhub API, and parsing JSON data to display up-to-date ticker information.
   </p>
   <p>
-    <span style="font-weight: bold;">User Authentication and Data Integrity:</span> Implemented robust user authentication mechanisms to ensure personalized access, data integrity, and secure user-specific experiences, maintaining the confidentiality and accuracy of portfolio information.
+    <h4>User Authentication and Data Integrity:</h4>
+    Implemented robust user authentication mechanisms to ensure personalized access, data integrity, and secure user-specific experiences, maintaining the confidentiality and accuracy of portfolio information.
   </p>
 </div>
 
