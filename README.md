@@ -7,17 +7,10 @@
 
 ---
 
-
-<span>
-  <img src="https://github.com/user-attachments/assets/aec670e9-ce18-4938-8835-1f04e0499451" width=40 height=40 >
-  Manage a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value
-</span>
-
-
-<p>Data Management - Manage a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</p>
-<p>Live Trading - Execute virtual trades using real-time data to add or remove stocks from personal portfolio</p>
-<p>Login/Signup - Create an account or access your existing account for a personalized site experience</p>
-<p>Search Stocks - Look up stocks by ticker to retrieve real-time market data like daily high/low, market cap, shares outstanding etc.</p>
+<p>📊 Manage data with a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</p>
+<p>💰 Execute live virtual trades using real-time data to add or remove stocks from personal portfolio</p>
+<p>🧑🏻‍💻 Login to your existing account or create a new account for a personalized site experience</p>
+<p>🔎 Search stocks by ticker to retrieve real-time market data like daily high/low, market cap, shares outstanding etc.</p>
 
 ### Manage a Personalized Portfolio
 
