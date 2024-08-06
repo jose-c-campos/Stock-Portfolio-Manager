@@ -7,6 +7,13 @@
 
 ## Key Features
 
+<span align="left">
+  <img src="[https://cdn-icons-png.freepik.com/512/12071/12071716.png](https://img.freepik.com/free-vector/database-floating-squares_78370-6689.jpg?      t=st=1722906784~exp=1722910384~hmac=da6fa58203f1ce5bc87584cd4349b4e73211b6274fd27fcac81297973fa63c73&w=826)" width=20 height=20 align="left" />
+  <h5 align="left">Stock Portfolio Manager</h5>
+</span>
+
+
+
 <p>📊 Manage data with a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</p>
 <p>💰 Execute live virtual trades using real-time data to add or remove stocks from personal portfolio</p>
 <p>🧑🏻‍💻 Login to your existing account or create a new account for a personalized site experience</p>
