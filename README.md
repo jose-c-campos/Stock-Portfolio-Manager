@@ -1,7 +1,16 @@
-<span align="center">
+<span align="left">
   <img src="https://cdn-icons-png.freepik.com/512/12071/12071716.png" width=40 height=40 align="left" />
   <h1 align="left">Stock Portfolio Manager</h1>
 </span>
+
+### Key Features
+
+---
+
+<p>Data Management - Manage a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</p>
+<p>Live Trading - Execute virtual trades using real-time data to add or remove stocks from personal portfolio</p>
+<p>Login/Signup - Create an account or access your existing account for a personalized site experience</p>
+<p>Search Stocks - Look up stocks by ticker to retrieve real-time market data like daily high/low, market cap, shares outstanding etc.</p>
 
 ### Manage a Personalized Portfolio
 
