@@ -10,7 +10,7 @@
 <div style="display: inline-block;">
   <span align="left">
     <img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width=40 height=40 align="left" />
-    <h4 align="left">Manage data with a personal portfolio of owned stocks that uses real-time ticker data to calculate portfolio value</h4>
+    <h4 align="left">Manage data with a personal portfolio of owned stocks that uses real-time ticker data to calculate value</h4>
   </span>
   <span align="left">
     <img src="https://cdn-icons-png.flaticon.com/512/9307/9307321.png" width=40 height=40 align="left" />
