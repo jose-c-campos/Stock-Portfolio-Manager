@@ -12,6 +12,10 @@
   <h4 align="left">Manage data with a portfolio of owned stocks that uses real-time ticker data to calculate value</h4>
 </span>
 <span align="left">
+  <img src="https://freeiconshop.com/wp-content/uploads/edd/search-var-flat.png" width=40 height=40 align="left" />
+  <h4 align="left">Search stocks to retrieve real-time market data like market cap, shares outstanding etc.</h4>
+</span>
+<span align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/4175/4175980.png" width=40 height=40 align="left" />
   <h4 align="left"> Execute virtual trades using real-time data to add or remove stocks from personal portfolio</h4>
 </span>
