@@ -3,7 +3,7 @@
   <h1 align="left">Stock Portfolio Manager</h1>
 </span>
 
-<img align="center" width="600" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
+<img align="center" width="800" alt="Portfolio" src="https://github.com/user-attachments/assets/ab4b3776-2fc7-424c-aea5-32cdec9590f3">
 
 ## Key Features
 
